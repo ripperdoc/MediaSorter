@@ -4,6 +4,7 @@ from datetime import datetime,timedelta
 from string import Template
 
 # Script overview
+
 # Purpose: Sort downloaded content into a structure friendly to TV browsing, as well as iTunes mapping.
 # Optionally fetches new content from a download folder (e.g. the destination of torrents)
 
